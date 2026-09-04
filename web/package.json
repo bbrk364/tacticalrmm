@@ -12,10 +12,10 @@
   "dependencies": {
     "@quasar/extras": "^1.12.5",
     "apexcharts": "^3.33.1",
-    "axios": "^0.26.0",
+    "axios": "^0.33.0",
     "dotenv": "^16.0.0",
     "qrcode.vue": "^3.3.3",
-    "quasar": "^2.5.5",
+    "quasar": "^2.22.0",
     "vue3-ace-editor": "^2.2.2",
     "vue3-apexcharts": "^1.4.1",
     "vuedraggable": "^4.1.0",
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@quasar/app": "^3.3.3",
-    "@quasar/cli": "^1.2.2"
+    "@quasar/cli": "^1.4.0"
   },
   "browserslist": [
     "last 2 Chrome versions",
